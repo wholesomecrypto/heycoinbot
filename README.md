@@ -1,2 +1,2 @@
 # heycoinbot
-Telegram Bot to Check Prices
+Telegram Bot to Check Crypto Prices
